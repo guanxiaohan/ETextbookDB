@@ -1,0 +1,52 @@
+{
+    "translationOrder":[
+        "en_us",
+        "zh_cn"
+    ],
+    "VersionCodes": {
+        "RJ": ["People's Education Press", "人民教育出版社"],
+        "BS": ["Beijing Normal University Press", "北京师范大学出版社"],
+        "SD": ["Shandong Education Press", "山东教育出版社"]
+    },
+    "Subjects": {
+        "Chinese": ["Chinese", "语文"],
+        "Mathematics": ["Mathematics", "数学"],
+        "English": ["English", "英语"],
+        "Physics": ["Physics", "物理"],
+        "Chemistry": ["Chemistry", "化学"],
+        "Biology": ["Biology", "生物"],
+        "History": ["History", "历史"],
+        "Geography": ["Geography", "地理"],
+        "Politics": ["Politics", "政治"]
+    },
+    "Grades": {
+        "1": ["Primary School Grade 1", "小学 一年级"],
+        "2": ["Primary School Grade 2", "小学 二年级"],
+        "3": ["Primary School Grade 3", "小学 三年级"],
+        "4": ["Primary School Grade 4", "小学 四年级"],
+        "5": ["Primary School Grade 5", "小学 五年级"],
+        "6": ["Primary School Grade 6", "小学 六年级"],
+        "7": ["Junior High School Grade 7", "初中 七年级"],
+        "8": ["Junior High School Grade 8", "初中 八年级"],
+        "9": ["Junior High School Grade 9", "初中 九年级"],
+        "10": ["Senior High School Must-Learn", "高中 必修"],
+        "11": ["Senior High School Optional-Learn", "高中 选择性必修"]
+    },
+    "Semesters": {
+        "0": ["Full Year", "全一册"],
+        "1": ["First Volume", "上册"],
+        "2": ["Last Volume", "下册"],
+        "3": ["Second Volume", "中册"],
+        "4": ["Volume #1", "第一册"],
+        "5": ["Volume #2", "第二册"],
+        "6": ["Volume #3", "第三册"],
+        "7": ["Volume #4", "第四册"],
+        "8": ["Volume #5", "第五册"],
+        "9": ["Volume #6", "第六册"]
+    },
+    "Extensions": {
+        "pdf": ["PDF Files", "PDF预览文件"],
+        "epub": ["EPUB Files", "EPUB电子书文件"],
+        "mobi": ["MOBI Files", "MOBI电子书文件"]
+    }
+}

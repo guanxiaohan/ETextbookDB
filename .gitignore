@@ -1,0 +1,13 @@
+# ignores all textbook files
+*.pdf
+*.mobi
+*.epub
+
+# ignores all building files under build and dist folder
+build/
+dist/
+
+# ignores non-necessary scripts
+test.ps1
+textbookIndex.json
+textbookIndex.json.bak
